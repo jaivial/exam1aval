@@ -6,3 +6,5 @@
 5) mv si.txt si
 
 6) awk '{print $1,$2 "-" $5}' Alumnos.txt
+
+7) grep -m3 "González" Alumnos.txt | wc -l
