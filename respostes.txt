@@ -10,3 +10,5 @@
 7) grep -m3 "González" Alumnos.txt | wc -l
 
 8) sed 's/Vicente/Pepe/g' Alumnos.txt
+
+9) grep -E '(201[0-9])' Alumnos.txt
